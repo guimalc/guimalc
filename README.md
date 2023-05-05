@@ -22,7 +22,7 @@ Estou aprendendo:
 Voce pode me encontrar em:
 <br>
 <br>
-  <a href="gmeiraac@gmail.com" target="_blank">
+  <a href="mailto:gmeiraac@gmail.com" target="_blank">
    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16-2048x1537.png" alt="gmail_logo" width="22px"/>
   </a>
   <a href="https://www.facebook.com/guimeiraac" target="_blank">
