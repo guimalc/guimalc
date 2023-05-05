@@ -1,19 +1,6 @@
 ### Hi there :bowtie:
 
-<!--
-**guimalc/guimalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Me chamo Guilherme Meira, atualmente sou programador Front End, aprofundando o conhecimento e criando projetos com:
 <br>
 <br>
@@ -49,6 +36,6 @@ Voce pode me encontrar em:
   </a>
   <br>
   <br>
-  [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimalc)](https://github.com/anuraghazra/github-readme-stats)
+  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimalc&show_icons=true&theme=dracula)
   <br>
-  
+ <img src="https://avatar.southparkstudios.com.br/wp-content/uploads/2023/05/366d0cdb55dea403e70ef95f2c0da90f.png" alt="avatar">
