@@ -38,4 +38,4 @@ Voce pode me encontrar em:
   <br>
   ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guimalc&show_icons=true&theme=dracula)
   <br>
- <img src="https://avatar.southparkstudios.com.br/wp-content/uploads/2023/05/366d0cdb55dea403e70ef95f2c0da90f.png" alt="avatar">
+
